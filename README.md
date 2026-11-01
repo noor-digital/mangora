@@ -10,7 +10,7 @@ library that remembers where you stopped.
 > Every series, author and drawing is fictional and generated in the browser — no copyrighted
 > scans are used or distributed.
 
-## Features
+## Preview\n\n![Real screenshot of a MANGORA series page](https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png)\n\n[Open the live demo](https://noor-digital.github.io/mangora/)\n\n## Features
 
 - **Cinematic homepage** — full-screen hero with five-layer mouse parallax, scroll-driven transformation,
   four rotating featured stories (autoplay, pause on hover, manual navigation, per-story accent colour).
